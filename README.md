@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I am Aneesh B S</h1>
-<h3 align="center">A passionate frontend developer from Bengaluru</h3>
+<h3 align="center">A passionate frontend developer from Bengaluru.</h3>
 
 - 🔭 I’m currently working on **New ideas and innovative approaches in app and web development.**
 
